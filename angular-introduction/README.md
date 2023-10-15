@@ -7,3 +7,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Απλή δέσμευση (simple binding) χαρακτηριστικού της κλάσης του component στο template του component.
 
 Χρήση του Placeholder `{{<attribute_name>}}`
+
+# Alternate Component input
+-input | undefined
+-ngif για εμφάνιση υποσυνθήκης
+-ng-container k ng-template
